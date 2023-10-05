@@ -11,4 +11,4 @@ You will start by getting 4 choices
 
 It will let you interact with the list in certain ways.
 # savefile location
-the savefile location will be in your bin/net 6 of your projectfolder
+The savefile location will be in your bin/Debug/net6.0 of your projectfolder, it will be a .xml file named ListTestXML.
